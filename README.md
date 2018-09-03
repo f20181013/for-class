@@ -6,3 +6,4 @@
 (Your name) has closed the case
 ### Merge the branches and send the link either on whatsapp or classroom and notify me on whatsapp.
 ### This is graded. 
+### Then raise a Pull Request (PR) from your branch to my repository. 
