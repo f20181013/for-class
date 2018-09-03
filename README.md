@@ -29,4 +29,25 @@ clashofclans~soumya
 talkingtom~soumya
 basketball~soumya
 tabletennis~soumya
+Table tennis - Divyam
+Chess - Divyam
+Volleyball - Divyam
+Cricket - Divyam
+Football - Divyam
+Badminton - Divyam
+Tennis - Divyam
+Coding - Divyam
+Youtube - Divyam
+Games - Divyam
+Sherlock - Divyam
+Stocks - Divyam
+Data analysis - Divyam
+Fifa - Divyam
+CSGO - Divyam
+Movies - Divyam
+Friends - Divyam
+Dota - Divyam
+WebDevelopment - Divyam
+TshirtDesign - Divyam
+
 
